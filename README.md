@@ -22,3 +22,8 @@ The code is written in JavaScript with Firebase’s SDK.
 * [Stack Overflow](https://stackoverflow.com/)
 * [W3Schools — JavaScript](https://www.w3schools.com/js/)
 * [GeeksforGeeks — JavaScript](https://www.geeksforgeeks.org/javascript/)
+
+ # Acknowledgements
+
+I want to acknowledge that ChatGPT helped me with the .gitignore part of this project. I needed to add it to keep unnecessary files like node_modules/ and .env out of the repository because I was running into errors when trying to push my project to GitHub.
+
