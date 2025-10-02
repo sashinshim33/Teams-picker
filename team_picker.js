@@ -1,8 +1,7 @@
 // team_picker.js
 // 🛠 Custom Cloud Team Picker App
-// Author: Sashin Randal Shim
+// Author: Sashin Randall Shim
 // Purpose: Create and manage random balanced teams using Firebase Firestore
-// This version is unique for CSE 310 Module #1 and meets rubric requirements
 
 // 1️⃣ Import Firebase functions
 import { initializeApp } from "firebase/app";
